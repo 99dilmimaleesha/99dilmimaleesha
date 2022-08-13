@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Dilmi</h1>
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif?cid=82a1493b0jvhpxa3y2c63dwp0ikn4uhpuqjs2s8e78w9fezp&rid=200w.gif&ct=s" width="200"/>
+  <img src="![image](https://user-images.githubusercontent.com/83767011/184505341-e7fd7222-9be1-4480-be19-09248e05ea93.png)
+" width="200"/>
 </div>
 
 <h3 align="center">A passionate about Software Development</h3>
