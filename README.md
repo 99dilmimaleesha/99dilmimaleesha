@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dilmi</h1>
 <div id="header" align="center">
-  <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif
-" width="200"/>
+  <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200"/>
 </div>
 
 <h3 align="center">A passionate about Software Development</h3>
