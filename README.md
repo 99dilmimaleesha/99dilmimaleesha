@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dilmi</h1>
+<h1 align="center">Hi there 👋, I'm Dilmi</h1>
 <div id="header" align="center">
   <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200"/>
 </div>
