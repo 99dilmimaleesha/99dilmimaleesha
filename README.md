@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dilmi</h1>
 <div id="header" align="center">
-  <img src="![image](https://user-images.githubusercontent.com/83767011/184505341-e7fd7222-9be1-4480-be19-09248e05ea93.png)
+  <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif
 " width="200"/>
 </div>
 
