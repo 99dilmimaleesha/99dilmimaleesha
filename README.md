@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=99dilmimaleesha&" alt="99dilmimaleesha" /></p>
 
-https://holopin.me/99dilmimaleesha
+<p><img align="center" src="https://holopin.me/99dilmimaleesha" alt="99dilmimaleesha"/></p>
 
