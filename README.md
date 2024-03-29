@@ -4,7 +4,7 @@
   <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200"/>
 </div>
 
-<h3 align="center">A passionate about Software Development</h3>
+<h3 align="center">A passionate about Full Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=99dilmimaleesha&label=Profile%20views&color=0e75b6&style=flat" alt="99dilmimaleesha" /> </p>
 
