@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Dilmi</h1>
 <div id="header" align="center">
-  <img src="https://myoctocat.com/build-your-octocat/" width="200"/>
+ 
 </div>
 
 <h3 align="center">A passionate about Full Stack Web Development</h3>
