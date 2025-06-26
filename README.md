@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a front-end developer. I love develop quality interfaces.<br>Currently I'm learning more deeply about frontend development.
+I'm a creative and detail-oriented Frontend Developer passionate about crafting exceptional user experiences through clean, responsive, and performant web interfaces. With a strong foundation in HTML, CSS, JavaScript (ES6+), TypeScript, and React, I specialize in transforming complex problems into elegant, interactive solutions.
 
 
 # 💻 Tech Stack:
