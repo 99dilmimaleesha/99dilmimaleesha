@@ -47,11 +47,6 @@ I'm a passionate **Frontend Developer** who loves bringing ideas to life through
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-
----
-
 ## 📈 GitHub Stats
 
 | 💻 Stats | 🔥 Streak | 🧠 Top Languages |
@@ -72,7 +67,7 @@ I'm a passionate **Frontend Developer** who loves bringing ideas to life through
   <img src="https://komarev.com/ghpvc/?username=99dilmimaleesha&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
----
+
 
 
 
