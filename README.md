@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Jk4ZT6R0OEUQk/giphy.gif" alt="Totoro leaf hat" />
+  <img src="https://64.media.tumblr.com/5d5509dbf92e54f1f5ca53abdc78a50e/a333b08c4a470769-31/s540x810/89a9ca97a0bbc6da8c8e43567f9b2549e921e613.gifv" />
 </p>
 
 
