@@ -1,61 +1,86 @@
-<h1 align="center">Hi 👋, I'm Dilmi Wickramasinghe</h1>
-<h3 align="center">Creative Frontend Developer | Problem Solver | UI Enthusiast</h3>
+<h1 align="center">Hey 👋 I'm Dilmi Wickramasinghe</h1>
+<p align="center">
+  🚀 Frontend Developer | 🎨 UI Enthusiast | 🧠 Lifelong Learner
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Clean+Interfaces...;Building+Responsive+Designs...;Writing+Performant+React+Code...;Learning+Something+New+Everyday!&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000&size=18" />
+</p>
 
 ---
 
-## 💫 About Me
+## 🧠 Who Am I?
 
-I'm a passionate and detail-oriented **Frontend Developer** focused on building responsive, accessible, and high-performance web applications. I love turning creative ideas into elegant interfaces using modern technologies like React, TypeScript, and Tailwind CSS. I’m also exploring backend development with Node.js and Express to become a full-stack ninja 💻✨.
+I'm a passionate **Frontend Developer** who loves bringing ideas to life through stunning, responsive, and user-friendly web applications. I thrive on crafting clean interfaces, building scalable components, and learning something new every single day.
 
----
-
-## 🚀 Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
-
-### 🛠️ Backend & DB
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🔧 Tools
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+### ✨ My Superpowers
+- Building pixel-perfect UIs with **React, TypeScript, Tailwind, and MUI**
+- Managing state like a boss with **Zustand, Redux & Context API**
+- Integrating APIs like a breeze with **Axios, Fetch, React Query**
+- Writing clean, modular, and scalable code with **component design patterns**
+- Performance tuning and testing with **Lighthouse, React Memo, Jest**
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Toolbox
 
-| 🔥 Streak | 📈 GitHub Stats | 🧠 Top Languages |
-|----------|----------------|----------------|
-| ![](https://nirzak-streak-stats.vercel.app/?user=99dilmimaleesha&theme=tokyonight&hide_border=false) | ![](https://github-readme-stats.vercel.app/api?username=99dilmimaleesha&theme=tokyonight&hide_border=false&count_private=true&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=99dilmimaleesha&theme=tokyonight&hide_border=false&layout=compact) |
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+
+### 🧱 Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🧪 Tools & Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=99dilmimaleesha&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+## 🚀 I’m Currently Working On
+- 🧘‍♀️ **BreathEase** — a breathing exercise PWA to help users reduce stress
+- 🧩 **Smart UI Dashboard** — with animations, charts, and filterable data
+- 📆 **Daily Habit Tracker (micro-SaaS)** — with Zustand, RHF, and Lighthouse optimization
 
 ---
 
-### 📬 Let’s Connect
+## 📈 GitHub Stats
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(Coming Soon)*  
-- 📫 Email: your.email@example.com
+| 💻 Stats | 🔥 Streak | 🧠 Top Languages |
+|----------|----------|-----------------|
+| ![](https://github-readme-stats.vercel.app/api?username=99dilmimaleesha&theme=tokyonight&show_icons=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=99dilmimaleesha&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=99dilmimaleesha&theme=tokyonight&layout=compact) |
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=99dilmimaleesha&icon=2&color=12)
+## 📬 Let’s Connect
 
-> ✨ Proudly created using [GPRM](https://gprm.itsvg.in)
+- 🌐 [Portfolio Website](https://your-portfolio-site.com) *(Coming Soon!)*
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 Email: dilmi@example.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=99dilmimaleesha&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
+
+> 🚧 “Great UI is invisible. Great UX is unforgettable.” — Me, probably.  
+> 🌟 Let’s build something amazing together!
+
+<!-- Made with ❤️ by Dilmi -->
+
 
