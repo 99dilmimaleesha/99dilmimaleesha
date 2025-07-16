@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Totoro waving" width="300"/>
+  <img src="https://media.giphy.com/media/Jk4ZT6R0OEUQk/giphy.gif" alt="Totoro leaf hat" />
 </p>
 
 
