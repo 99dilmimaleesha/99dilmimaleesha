@@ -49,10 +49,6 @@ I'm a passionate **Frontend Developer** who loves bringing ideas to life through
 
 ---
 
-## 🚀 I’m Currently Working On
-- 🧘‍♀️ **BreathEase** — a breathing exercise PWA to help users reduce stress
-- 🧩 **Smart UI Dashboard** — with animations, charts, and filterable data
-- 📆 **Daily Habit Tracker (micro-SaaS)** — with Zustand, RHF, and Lighthouse optimization
 
 ---
 
@@ -78,8 +74,7 @@ I'm a passionate **Frontend Developer** who loves bringing ideas to life through
 
 ---
 
-> 🚧 “Great UI is invisible. Great UX is unforgettable.” — Me, probably.  
-> 🌟 Let’s build something amazing together!
+
 
 <!-- Made with ❤️ by Dilmi -->
 
