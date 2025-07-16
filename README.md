@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Clean+Interfaces...;Building+Responsive+Designs...;Writing+Performant+React+Code...;Learning+Something+New+Everyday!&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000&size=18" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Totoro waving" width="300"/>
 </p>
+
 
 ---
 
