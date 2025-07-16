@@ -60,7 +60,7 @@ I'm a passionate **Frontend Developer** who loves bringing ideas to life through
 
 - 🌐 [Portfolio Website](https://your-portfolio-site.com) *(Coming Soon!)*
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 Email: dilmi@example.com
+- 📧 Email: dilmimaleesha300@gmail.com
 
 ---
 
