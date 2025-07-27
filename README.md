@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Dilmi Wickramasinghe</h1>
 <p align="center">
-  🚀 Frontend Developer | 🎨 UI Enthusiast | 🧠 Lifelong Learner
+  🚀 Frontend Developer |🧠 Lifelong Learner
 </p>
 
 <p align="center">
