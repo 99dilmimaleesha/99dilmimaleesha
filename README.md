@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋 I'm Dilmi Wickramasinghe</h1>
 <p align="center">
-  🚀 Frontend Developer |🧠 Lifelong Learner
+  🚀 Frontend Developer 
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</p>
+
 
 
 ---
